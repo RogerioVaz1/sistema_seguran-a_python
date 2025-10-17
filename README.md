@@ -77,6 +77,4 @@ Sinta-se à vontade para melhorar este código! Algumas ideias:
 - Criar interface gráfica
 - Adicionar notificações por email
 
-## 📄 Licença
 
-Este projeto é livre para uso educacional.
