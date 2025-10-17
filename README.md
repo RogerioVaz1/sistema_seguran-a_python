@@ -69,12 +69,5 @@ Este é um sistema de segurança **educacional e simplificado**. Para aplicaçõ
 - `usuarios.json`: Banco de dados de usuários (criado automaticamente)
 - `log_acessos.txt`: Histórico de tentativas de acesso
 
-## 🤝 Contribuições
-
-Sinta-se à vontade para melhorar este código! Algumas ideias:
-- Adicionar níveis de permissão (admin, usuário comum)
-- Implementar recuperação de senha
-- Criar interface gráfica
-- Adicionar notificações por email
 
 
